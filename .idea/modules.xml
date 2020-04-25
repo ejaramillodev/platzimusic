@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Platzi music.iml" filepath="$PROJECT_DIR$/Platzi music.iml" group="Platzi music" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Platzi music/app" />
+    </modules>
+  </component>
+</project>
